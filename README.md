@@ -40,7 +40,9 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
   </div>
 </div>
-    
+<h2>Currently learning :<h2>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;    
 <hr>
 <h2>:fire: My Stats :</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ross-ian28&show_icons=true"/>
