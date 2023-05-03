@@ -13,7 +13,7 @@
 </div>
 <hr>
 <div id="body">
-  <h2>About Me</h2>
+  <h2>👨‍💻 About Me :</h2>
   <h4>I'm a Junior Full-Stack Engineer💻</h4>
   <li>⚡️ I love to learn new technologies and to meet new people</li>
   <li>🎮 In my free time I work on building different games</li>
@@ -21,7 +21,7 @@
   <li>📖 You can reach me here on my LinkedIn:     <a href="https://www.linkedin.com/in/ross-ian28/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="60"/></li>
 <hr>
-  <h3>:hammer_and_wrench: Languages and Tools :<h3>
+  <h2>:hammer_and_wrench: Languages and Tools :<h2>
   <div id="tools">
       <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
@@ -40,3 +40,9 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
   </div>
 </div>
+    
+<hr>
+<h2>:fire: My Stats :</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=ross-ian28&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ross-ian28&layout=compact"/>
+
