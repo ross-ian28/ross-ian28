@@ -17,7 +17,7 @@
   <h4>I'm a Junior Full-Stack Engineer💻</h4>
   <li>⚡️ I love to learn new technologies and to meet new people</li>
   <li>🎮 In my free time I work on building different games</li>
-  <li>🖥️ I love the process of build backend databases and designing frontend projects</li>
+  <li>🖥️ I love the process of building backend databases and designing frontend projects</li>
   <li>📖 You can reach me here on my LinkedIn:     <a href="https://www.linkedin.com/in/ross-ian28/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="60"/></li>
 <hr>
